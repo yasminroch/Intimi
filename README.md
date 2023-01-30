@@ -42,7 +42,9 @@ Você pode acessar o protótipo clicando [aqui](link)
 ## Nossa equipe
 <div style="display: flex;">
   <figure>
+  <a href="https://www.linkedin.com/in/keylla-oliveira1206/">
     <img src="https://media.licdn.com/dms/image/D4D03AQHFscEPrL9V1w/profile-displayphoto-shrink_800_800/0/1664997590903?e=1680134400&v=beta&t=ubRAK9INAxbH3TEpJTwIYNV9aNJRIuWlOu5gP1re6Io" width="100" height="100" style="display:inline-block;">
+    </a>
   </figure>
   <figure>
     <a href="https://www.linkedin.com/in/maria-clara-b-245099228/">
@@ -50,7 +52,7 @@ Você pode acessar o protótipo clicando [aqui](link)
     </a>
   </figure>
   <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/yasminvit%C3%B3riarocha/">
     <img src="https://media.licdn.com/dms/image/C4D03AQFJbwNRP0BIjQ/profile-displayphoto-shrink_800_800/0/1649451917182?e=1680134400&v=beta&t=X0CQ6wEMQozCjI_9Ej06JcyghQ674WTqD7MsgRTloFI" width="100" height="100" style="display:inline-block;">
       </a>
   </figure>

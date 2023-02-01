@@ -37,7 +37,10 @@ MVP App demo: Thunkable
 </div>
 
 ## Figma
-Você pode acessar o protótipo clicando [aqui](link)
+Você pode acessar o protótipo clicando <a href="https://www.figma.com/file/5tlnytfNIEe6IgKQDN3c0r/Intimi?node-id=0%3A1&t=svV02DchY06ezFOS-1">aqui</a>
+
+##Apresentação
+Você pode acessar a apresentação do aplicativo <a href="https://www.canva.com/design/DAFY_NdWYXg/mCgTlb0ECmy_2XcncpqkWA/edit?utm_content=DAFY_NdWYXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">aqui</a>
 
 ## Nossa equipe
 <div style="display: flex;">

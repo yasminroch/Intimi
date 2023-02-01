@@ -1,6 +1,6 @@
 # Intimi - Empoderando a juventude com educação sexual
 
-<img href="https://i.imgur.com/5woKyHz.png">
+<img src="https://i.imgur.com/5woKyHz.png">
 
 ## Hackmundo 2023 - Equipe Dumky
 

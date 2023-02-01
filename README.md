@@ -1,4 +1,7 @@
 # Intimi - Empoderando a juventude com educação sexual
+
+<img href="https://i.imgur.com/5woKyHz.png">
+
 ## Hackmundo 2023 - Equipe Dumky
 
 ## Problema
@@ -62,5 +65,18 @@ Você pode acessar a apresentação do aplicativo <a href="https://www.canva.com
 </div>
 
 ## Contribuidores
+Considerações para as seguintes pessoas que auxiliaram o projeto dando insights:
+- Anna Aragão
+- Karol Gammarano
+- 
+- 
 
 ## Fontes
+https://www.flaticon.com/br/
+https://storyset.com/
+
+https://artigo19.org/wp-content/blogs.dir/24/files/2016/12/Acesso-%C3%A0-Informa%C3%A7%C3%A3o-e-Direitos-das-Mulheres.pdf
+https://cee.fiocruz.br/?q=Desinformacao-afeta-direitos-reprodutivos-de-milhoes-de-mulheres-no-mundo-diz-onu#:~:text=Desinforma%C3%A7%C3%A3o%20afeta%20direitos%20reprodutivos%20de%20milh%C3%B5es%20de%20mulheres%20no%20mundo%2C%20diz%20ONU,-Compartilhe&text=Verdadeiras%20escolhas%20reprodutivas%20tornaram%2Dse,mulheres%20nos%20pa%C3%ADses%20em%20desenvolvimento.
+https://artigo19.org/wp-content/blogs.dir/24/files/2016/12/Acesso-%C3%A0-Informa%C3%A7%C3%A3o-e-Direitos-das-Mulheres.pdf
+https://www.codastory.com/waronscience/women-health/
+https://www.sciencedirect.com/science/article/pii/S1877575618302131

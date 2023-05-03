@@ -64,13 +64,6 @@ Você pode acessar a apresentação do aplicativo <a href="https://www.canva.com
   </figure>
 </div>
 
-## Contribuidores
-Considerações para as seguintes pessoas que auxiliaram o projeto dando insights:
-- Anna Aragão
-- Karol Gammarano
-- 
-- 
-
 ## Fontes
 https://www.flaticon.com/br/
 https://storyset.com/
